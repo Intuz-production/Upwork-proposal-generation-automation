@@ -6,15 +6,15 @@
   </picture>
 </p>
 
-# Automate AI Upwork proposal generation with Apify, Google Gemini & sheets
+# Automate AI Upwork proposal generation with Apify, Google Gemini & Sheets
 
-Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
+Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch
 
-[Website](https://intuz.com) · [N8N Creator](https://n8n.io/creators/intuz/) · [Workflow Automation](https://www.intuz.com/workflow-automation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
+[N8N Creator](https://n8n.io/creators/intuz/) · [AI Agent Development Company](https://www.intuz.com/ai-agents-for-business-automation/) · [AI Workflow Automation](https://www.intuz.com/workflow-automation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
 
 ---
 
-This n8n template from [Intuz](https://www.intuz.com/) provides a complete and automated solution for finding relevant Upwork jobs and generating highly-personalized, knowledge-base-driven proposals using AI.
+This n8n template from [Intuz](https://www.intuz.com) provides a complete and automated solution for finding relevant Upwork jobs and generating highly-personalized, knowledge-base-driven proposals using AI.
 
 This workflow acts as an autonomous agent, handling everything from job discovery to drafting the final proposal text, ready for you to review and submit.
 
@@ -87,8 +87,11 @@ Click **"Execute workflow"** to run the entire job scraping and proposal generat
 
 ## Connect with us
 
-* **Website:** https://www.intuz.com/n8n-workflow-automation-templates
+* **Website:** [https://www.intuz.com/n8n-workflow-automation-templates/](https://www.intuz.com/n8n-workflow-automation-templates/)
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
-* **LinkedIn:** https://www.linkedin.com/company/intuz
-* **Get Started:** https://n8n.partnerlinks.io/intuz
-* **For Custom Workflow Automation:** https://www.intuz.com/get-started/
+* **LinkedIn:** [https://www.linkedin.com/company/intuz/](https://www.linkedin.com/company/intuz/)
+* **Get Started:** [https://n8n.partnerlinks.io/intuz/](https://n8n.partnerlinks.io/intuz)
+
+## For Custom Workflow Automation
+
+[Click here - Get Started](https://www.intuz.com/get-started/)
